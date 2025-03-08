@@ -1,0 +1,23 @@
+.avatar {
+  width: 120px;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 5px auto;
+}
+.name {
+  margin: 5px auto;
+  font-size: 25px;
+  line-height: 1.5;
+  letter-spacing: -0.03em;
+}
+.stats {
+  font-size: 20px;
+  margin: 5px auto;
+}
+
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
